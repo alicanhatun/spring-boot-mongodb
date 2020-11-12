@@ -1,4 +1,4 @@
-###### **Spring Boot MongoDB Sample**
+# **Spring Boot MongoDB Sample**
 
 * docker run --name some-mongo -p 27017:27017 -d mongo:latest
 * {
